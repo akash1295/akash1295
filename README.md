@@ -1,4 +1,5 @@
-## Hi there 👋 I am Akash with 8+ years of experience in **Software Quality Assurance & Test Automation**  <br>🔹 Skilled in building automation frameworks with **Selenium, Java, BDD, Cucumber, TestNG, Maven**  <br>🔹 Hands-on with **Playwright, Cypress, WebdriverIO, TypeScript & JavaScript**  <br>🔹 Experienced in **API Testing (REST, Postman, SoapUI)** and **CI/CD pipelines (Jenkins, Git, Docker, Kubernetes)**  <br>🔹 Strong background in **Agile/Scrum, Defect Management, Test Strategy & Root Cause Analysis**  <br>🔹 Domain expertise in **Retail Banking & E-Commerce**  
+# 💫 About Me:
+🔹 8+ years of experience in **Software Quality Assurance & Test Automation**  <br>🔹 Skilled in building automation frameworks with **Selenium, Java, BDD, Cucumber, TestNG, Maven**  <br>🔹 Hands-on with **Playwright, Cypress, WebdriverIO, TypeScript & JavaScript**  <br>🔹 Experienced in **API Testing (REST, Postman, SoapUI)** and **CI/CD pipelines (Jenkins, Git, Docker, Kubernetes)**  <br>🔹 Strong background in **Agile/Scrum, Defect Management, Test Strategy & Root Cause Analysis**  <br>🔹 Domain expertise in **Retail Banking & E-Commerce**  
 
 
 ## 🌐 Socials:
