@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 # 💫 About Me:
 🔹 8+ years of experience in **Software Quality Assurance & Test Automation**  <br>🔹 Skilled in building automation frameworks with **Selenium, Java, BDD, Cucumber, TestNG, Maven, JUnit**  <br>🔹 Hands-on experience with **Playwright, WebdriverIO, TypeScript & JavaScript**  <br>🔹 Experienced in **API Testing (REST, Postman, SoapUI)** and **CI/CD pipelines (Jenkins, Git)**  <br>🔹 Strong background in **Agile/Scrum, SDLC, STLC, Defect Management, Test Strategy & Root Cause Analysis**  <br>🔹 Domain expertise in **Retail, E-Commerce & Banking**  
 
